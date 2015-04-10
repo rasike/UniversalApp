@@ -1,2 +1,0 @@
-# UniversalApp
-Universal Application
